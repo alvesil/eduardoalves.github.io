@@ -16,27 +16,27 @@
 		data: () => ({
 			certificates: [
 				{
-					name: 'Certificado de Conclusão do Ensino Médio',
+					name: 'Certificado de Conclusão do Ensino Médio (Centro de Ensino Médio 12 de Ceilândia)',
 					file: '/public/doc/certificates/certificado_de_conclusão_do_ensino_médio_CEM12.jpg'
 				},
 				{
-					name: 'Estágio Supervisionado em Telecomunicações',
+					name: 'Estágio Supervisionado em Telecomunicações (Escola Técnica de Brasília)',
 					file: '/public/doc/certificates/estágio_supervisionado_ETB.jpg'
 				},
 				{
-					name: 'Assistente Técnico de Planejamento e Projetos em Telecomunicações',
+					name: 'Assistente Técnico de Planejamento e Projetos em Telecomunicações (Escola Técnica de Brasília)',
 					file: '/public/doc/certificates/assistente_técnico_de_planejamento_e_projetos_em_telecomunicações_ETB.jpg'
 				},
 				{
-					name: 'Assistente Técnico de Manutenção em Telecomunicações',
+					name: 'Assistente Técnico de Manutenção em Telecomunicações (Escola Técnica de Brasília)',
 					file: '/public/doc/certificates/assistente_técnico_de_manutenção_em_telecomunicações_ETB.jpg'
 				},
 				{
-					name: 'Operador em Telecomunicações/ Informação e Comunicação',
+					name: 'Operador em Telecomunicações/ Informação e Comunicação (Escola Técnica de Brasília)',
 					file: '/public/doc/certificates/operador_em_telecomunicações_informação_e_comunicaçõe_ETB.jpg'
 				},
 				{
-					name: 'Técnico em Telecomunicações/ Informação e Comunicação',
+					name: 'Técnico em Telecomunicações/ Informação e Comunicação (Escola Técnica de Brasília)',
 					file: '/public/doc/certificates/técnico_em_telecomunicações_informação_e_comunicaçõe_ETB.jpg'
 				},
 				{
