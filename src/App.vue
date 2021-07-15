@@ -1,6 +1,6 @@
 <template>
 	<v-app>
-		<v-jumbotron height="auto" src="/public/img/cover.jpg" gradient="to top, rgba(0, 0, 0, .7), rgba(0, 100, 100, .7)" dark>
+		<v-jumbotron height="auto" src="/public/img/cover.jpg" gradient="to top, rgba(0, 0, 0, .7), rgba(0, 128, 128, .7)" dark>
 			<v-container fill-height>
 				<v-layout column align-center>
 					<v-avatar size="200px" class="mt-5 mb-5">
@@ -9,7 +9,7 @@
 				</v-layout>
 			</v-container>
 		</v-jumbotron>
-		<v-toolbar color="cyan darken-1" dark class="elevation-0" ref="toolbar" :fixed="offsetTop >= 328" v-scroll="onScroll">
+		<v-toolbar color="primary" dark class="elevation-0" ref="toolbar" :fixed="offsetTop >= 328" v-scroll="onScroll">
 			<v-toolbar-side-icon class="hidden-sm-and-up" @click="drawer = !drawer"></v-toolbar-side-icon>
 			<v-toolbar-title>{{name}}</v-toolbar-title>
 			<v-spacer></v-spacer>
@@ -41,7 +41,7 @@
 				</v-list-tile>
 			</v-list>
 		</v-bottom-sheet>
-		<v-footer color="cyan darken-1">
+		<v-footer color="secondary">
 			<v-spacer></v-spacer>
 			&copy; {{name}} {{year}}
 			<v-spacer></v-spacer>
