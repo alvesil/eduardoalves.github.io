@@ -14,36 +14,7 @@
 						<p v-html="desc"></p>
 						<v-divider></v-divider>
 						<v-list ripple>
-							<v-list-tile :href="social.facebook" target="_blank">
-								<v-list-tile-avatar>
-									<v-icon>mdi-facebook</v-icon>
-								</v-list-tile-avatar>
-								<v-list-tile-title>Facebook</v-list-tile-title>
-							</v-list-tile>
-							<v-list-tile :href="social.linkedin" target="_blank">
-								<v-list-tile-avatar>
-									<v-icon>mdi-linkedin</v-icon>
-								</v-list-tile-avatar>
-								<v-list-tile-title>Linkedin</v-list-tile-title>
-							</v-list-tile>
-							<v-list-tile :href="social.github" target="_blank">
-								<v-list-tile-avatar>
-									<v-icon>mdi-github-circle</v-icon>
-								</v-list-tile-avatar>
-								<v-list-tile-title>GitHub</v-list-tile-title>
-							</v-list-tile>
-							<v-list-tile :href="`mailto://${social.email}`">
-								<v-list-tile-avatar>
-									<v-icon>mdi-email</v-icon>
-								</v-list-tile-avatar>
-								<v-list-tile-title>{{social.email}}</v-list-tile-title>
-							</v-list-tile>
-							<v-list-tile :href="`tel://${social.phone}`">
-								<v-list-tile-avatar>
-									<v-icon>mdi-whatsapp</v-icon>
-								</v-list-tile-avatar>
-								<v-list-tile-title>{{social.phone}}</v-list-tile-title>
-							</v-list-tile>
+							
 						</v-list>
 					</v-container>
 				</v-flex>
