@@ -1,4 +1,4 @@
-# samuelnovaes.github.io
+# Créditos a -> Samuel Novaes (samuelnovaes.github.io)
 
 > Website pessoal
 
