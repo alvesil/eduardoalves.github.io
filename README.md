@@ -1,6 +1,6 @@
 # eduardoalves.github.io
 
-> Website pessoal
+> Website pessoal. "Curriculum"
 
 ## Build Setup
 
