@@ -36,7 +36,7 @@ export default {
 				items: [
 					{
 						name: 'Linguagens/Plataformas/Frameworks',
-						desc: 'HTML, CSS, JavaScript e Bootstrap'
+						desc: 'HTML, CSS, JavaScript, PHP, MySQL e Bootstrap'
 					},
 					{
 						name: 'Sistemas Operacionais',
@@ -45,7 +45,7 @@ export default {
 					{
 						name: 'Informática Básica',
 						desc: 'Pacote Office, Internet e Montagem e Configuração de Micro e Configuração de Redes'
-					},
+					}
 				]
 			},
 			{

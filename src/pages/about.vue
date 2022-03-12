@@ -64,7 +64,7 @@
 			name: 'Eduardo Alves da Silva',
 			desc: `	
 				Tenho ${idade(28, 4, 1994)} anos de idade.<br>
-				Possuo conhecimentos básicos em HTML, CSS, JS e BOOTSTRAP.
+				Possuo conhecimentos intermediários em HTML, CSS, JavaScript, PHP, MySQL e Bootstrap.
 			`,
 			social: {
 				facebook: 'https://www.facebook.com/EduardoAlveSilva',
